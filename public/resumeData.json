@@ -1,0 +1,240 @@
+{
+  "main": {
+    "name": "Pubudu Dilshan",
+    "occupation": " Freelancer",
+    "description": " Software Developer, Founder & CEO at Future Apps ",
+    "jobDescription": "Loves Traveling and Driving",
+    "image": "profile_pic.jpg",
+    "bio": "Pubudu Dilshan - Software Developer and Startup Enthusiast,I'm really enjoy exposing myself to different technologies everyday and working either independently or as part of a team. I welcome all the opprtunities to consoder my suitabillity in details.",
+    "contactmessage": "Sent Me A Messege",
+    "email": "pubududilshan97@gmail.com",
+    "phone": "(+94) 71 3620 406 / (+94) 72 3620 406 ",
+    "address": {
+      "city": "Malabe.",
+      "state": "678/14, Mahawatta rd, Thunandahena, Korathota, Kaduwela. "
+    },
+    "website": "http://www.pubududilshan.online",
+    "resumedownload": "http://www.futureapps.online/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/D.K.Pubudu.Dilshan/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pubudu-dilshan-0872a98b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/dila_z_97/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "stack-overflow",
+        "url": "https://stackoverflow.com/users/7932002/pubudu-dilshan",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Dilshhost",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+  
+    "education": [
+      {
+        "school": "SLIIT | Sri Lanka Institute of Information Technology",
+        "degree": "BSc(Hons) Degree in Information Technology",
+        "graduated": "2017-2021",
+        "description": "Graduate in Information Technology at SLIIT who is looking to use the knowledge and skills gained in order to become a technology professional in a reputed company while developing myself and helping the company to grow."
+      },
+      {
+        "school": "ESOFT Metro Campus",
+        "degree": "Diploma in English & Information technology with E-Commerce",
+        "graduated": "2015",
+        "description": "Developed “Maliban Distribution System” for ESOFT IT diploma using C#.NET, Web based projet; programming language ASP.NET ."
+      },
+      {
+        "school": "St.Sylvester's College Kandy",
+        "graduated": "2003-2016",
+        "description": "General Certification of Examination (Advanced Level 2016) - Maths stream (Combined Mathematics, Physics, ICT) | General Certificate of Examination (Ordinary Level 2014) - (Commerce- A, Science -B, English –C, Mathematics-B)."
+      }
+    ],
+    "work": [
+      {
+        "company": "MAS Capital",
+        "title": "SAP-ABAP Developer",
+        "description": "MAS Holdings is the region's largest manufacturer of intimate apparel, performance wear and swimwear. MAS has a workforce exceeding 94,000 across 70 world class facilities located locally and overseas and records an annual turnover exceeding USS 1 billion. MAS serves internationally renowned brands like VS, M&S, NIKE, GAP and Speedo and owns the brand amante. I'm Work with the Digital Excellence Division of MAS Capital (Private) Limited."
+      },
+      {
+        "company": "HCLTech",
+        "title": "Senior Systems Administrator",
+        "description": " As a Senior Systems Administrator, the individual is responsible for managing, optimizing, and maintaining the company's IT infrastructure. This includes designing and implementing network configurations, monitoring and troubleshooting servers, and ensuring the security of sensitive data. The role involves evaluating new technologies, mentoring junior team members, and collaborating with stakeholders. The emphasis is on innovation, problem-solving, and contributing to the organization's success through technological excellence."
+      },
+      {
+        "company": "Freelancer",
+        "title": "Mobile Application Developer ",
+        "description": " Experienced Mobile Application Developer passionate about crafting innovative, user-centric mobile solutions. Skilled in iOS development, employing diverse programming languages and frameworks. Proficient in all stages of app development, from concept to maintenance. Collaborative team player dedicated to delivering top-notch user experiences. Known for problem-solving prowess and consistent delivery of scalable, reliable apps. Committed to ongoing learning and integration of industry advancements for cutting-edge solutions."
+      }
+    ],
+    "sport": [
+      {
+        "company": "Athlete",
+        "years": "[2007-2016]"
+      },
+      {
+        "company": "Chess",
+        "years": "[2008-2016]"
+      },
+      {
+        "company": "Carrom",
+        "years": "[2008-2016]"
+      },
+      {
+        "company": "Video Gaming & Traveling",
+        "years": "Playing video games is something I enjoy in my spare time. I'm a gamer & To travel is to live."
+      }
+    ],
+    "skillsdata":[
+      {
+        "name":"VMware",
+        "level":"95%"
+      },
+      {
+        "name":"Marketing",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"AWS",
+        "level":"80%"
+      },
+      {
+        "name":"Azure",
+        "level":"80%"
+      },
+      {
+        "name":"UI/UX",
+        "level":"98%"
+      },
+      {
+        "name":"Swift",
+        "level":"95%"
+      }
+    ],
+    
+    "skills": [
+      {
+        "name": "Git",
+        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image": "git.jpg"
+      },
+      {
+        "name": "Aws",
+        "description": "Experienced AWS specialist ensuring reliability and efficiency in cloud solutions. Proficient in architecting robust infrastructures and optimizing performance. Committed to staying updated with AWS best practices.",
+        "image": "aws.jpg"
+      },
+      {
+        "name": "React Js",
+        "description": "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image": "react.jpg"
+      },
+      {
+        "name": "Swift",
+        "description": "As an iOS mobile application developer, I began by building the application using SQLite and later migrated to Firebase for data management. Within the iOS environment, I effectively utilized Firebase to read, write, and query data from a Realtime Database. I also incorporated various features such as image compression, location services, user authentication, instant messaging, and integration with open-source APIs, ensuring seamless functionality and a user-friendly experience.",
+        "image": "swift.jpg"
+      },
+
+      {
+        "name": "VMware",
+        "description": "Seasoned VMware System Administrator with a proven track record in designing, deploying, and maintaining virtualization environments. Proficient in optimizing system performance, ensuring reliability, and troubleshooting issues. Dedicated to delivering top-tier support and solutions to meet organizational goals.",
+        "image": "vmware.jpg"
+      },
+      {
+        "name": "Azure",
+        "description":"Expertise in architecting, deploying, and managing Azure cloud solutions tailored to meet business objectives, Proficient in implementing best practices for ensuring high availability, disaster recovery, and scalability. Committed to staying updated with the latest cloud technologies and best practices to deliver reliable solutions.",
+        "image": "azure.jpg"
+      },
+      {
+        "name": "MongoDB",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image": "mongo.jpg"
+      },
+      {
+        "name": "UI/UX",
+        "description": "I Develop UI mock-ups and prototypes that clearly illustrate the user journey and how sites function and look like. Gathering and evaluating user requirements, in collaboration with Product managers and Engineers. Adjustment of designs based on user testing feedback.",
+        "image": "uiux.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Smart Emotion Meal Order",
+        "category":"Set the meal for the recognized emotion.",
+        "image":"semo.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      },
+      {
+        "title":"Hospital Management System",
+        "category":"Automated system for Hospital Management System.",
+        "image":"hms.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      },
+      {
+        "title":"Petbook Management System",
+        "image":"petbook.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      },
+      {
+        "title":"Car Rental Service System",
+        "image":"car.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      },
+      {
+        "title":"Cafe Resturant System",
+        "category":"CAFE THE VIBE.",
+        "image":"cafe.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      },
+      {
+        "title":"E-Channeling System",
+        "category":" ICT service provider to the Healthcare industry.",
+        "image":"echannel.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      },
+      {
+        "title":"Pet-Admin System",
+        "image":"petadmin.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      },
+      {
+        "title":"Maliban",
+        "category":"Disribution System",
+        "image":"Maliban.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      }
+    ]
+  },
+  
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have had the opportunity to work with Dilshan on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Dilshan excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "Mr.Susantha Saman Kumara  - Software Engineer Consultant (Virtusa)"
+      },
+      {
+        "text": "I have found him to be a dynamic professional who is equipped with a broad vision of Software Development. I highly recommend him.",
+        "user": "Mr.Prashan Rathnayaka - Assistent Manager academic affairs at SLIIT"
+      }
+    
+    ]
+  }
+}
